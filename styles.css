@@ -214,3 +214,13 @@ footer {
     padding: 38px 20px;
   }
 }
+
+footer a {
+  color: #0b6f94;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
